@@ -1,0 +1,1 @@
+java -noverify -javaagent:/home/zapstiko/BURP/Dr-FarFar.jar -jar /home/zapstiko/BURP/burpsuite_pro_v2022.9.5.jar
